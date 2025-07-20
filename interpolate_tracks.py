@@ -1,7 +1,7 @@
 import os
 import torch
 import argparse
-import cotracker.predictor as predictor
+import cotracker.cotracker.predictor as predictor
 import imageio.v3 as iio
 import torch.nn.functional as F
 import numpy as np
