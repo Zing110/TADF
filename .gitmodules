@@ -1,4 +1,8 @@
 [submodule "co-tracker"]
 	path = co-tracker
 	url = https://github.com/facebookresearch/co-tracker.git
+[submodule "TADFNDF"]
+	path = TADFNDF
+	url = https://github.com/Kasumigaoka-Utaha/TADFNDF.git
+
 
