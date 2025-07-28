@@ -1,6 +1,4 @@
 [submodule "co-tracker"]
 	path = co-tracker
 	url = https://github.com/facebookresearch/co-tracker.git
-[submodule "endosurf"]
-	path = endosurf
-	url = https://github.com/Ruyi-Zha/endosurf.git
+
